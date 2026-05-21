@@ -1,0 +1,498 @@
+
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>首页 - 云集</title>
+  <meta name="description" content="优质网盘资源分享平台">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://www.binhd.com/">
+  <meta property="og:title" content="云集">
+  <meta property="og:description" content="优质网盘资源分享平台">
+  <meta property="og:url" content="http://www.binhd.com/">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#C96A2E">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="icon" type="image/x-icon" href="/static/img/favicon.ico?v=e175bea">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png?v=e175bea">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png?v=e175bea">
+  <link rel="icon" type="image/png" sizes="192x192" href="/static/img/icon-192.png?v=e175bea">
+  <link rel="manifest" href="/static/img/site.webmanifest?v=e175bea">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" onload="this.rel='stylesheet'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"></noscript>
+  <link rel="stylesheet" href="/static/css/app.css?v=e175bea">
+  <script>
+    // Dark mode toggle script
+    (function() {
+      const theme = localStorage.getItem('theme') ||
+                   (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
+</head>
+<body>
+  
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="brand" href="/">
+        <img class="brand-badge" src="/static/img/site_logo.png?v=e175bea" alt="" aria-hidden="true">
+        
+      </a>
+      <nav class="nav nav-primary">
+        <a class="nav-item" href="/resources/">资源</a>
+        <a class="nav-item" href="/resources/tags/">标签</a>
+        
+        
+        
+        
+        
+      </nav>
+      <div class="header-actions">
+        
+          
+            <a class="nav-item nav-item-ghost" href="/auth/login/">登录</a>
+          
+          
+            <a class="primary-link nav-item nav-item-primary" href="/auth/register/">注册</a>
+          
+        
+        <button class="link-button nav-item nav-item-theme theme-toggle" id="theme-toggle" onclick="toggleTheme()" aria-label="切换主题">
+          <span id="theme-icon">🌙</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  
+  
+  <main>
+    
+<section class="hero home-hero">
+  <div class="hero-shell home-hero-shell">
+    <div class="home-hero-main">
+      <!-- <p class="eyebrow">
+        
+          优质网盘资源分享平台
+        
+      </p> -->
+      <h1 class="desktop-title">云集 网盘资源</h1>
+      <h1 class="mobile-title">云集 网盘资源</h1>
+      <div class="hero-meta home-hero-meta">
+        
+      </div>
+      <form class="search-bar home-search-bar" method="get" action="/resources/">
+        <input name="q" type="search" placeholder="搜索影视、教程、模板、源码…">
+        <button type="submit">搜索</button>
+      </form>
+      <div class="home-quick-actions">
+        <a class="primary-link" href="/resources/">浏览资源库</a>
+        
+          <!-- <span class="primary-link nav-item-ghost home-quick-status is-disabled" aria-disabled="true">会员功能暂未开放</span> -->
+        
+        
+          <!-- <span class="primary-link nav-item-ghost home-quick-status is-disabled" aria-disabled="true">AI 功能暂未开放</span> -->
+        
+      </div>
+    </div>
+
+    <aside class="detail-panel home-hero-panel">
+      <div class="home-hero-panel-head">
+        <div>
+          <h2>热门推荐</h2>
+        </div>
+      </div>
+      <div class="home-recommend-grid">
+        
+          <a class="home-recommend-card" href="/resources/hao-zhao-tou-di-san-ji/">
+            <div class="home-recommend-cover">
+              
+                <img src="https://img1.mj028.cn/view/photo/l/public/p2931623328.jpg" alt="好兆头 第三季 封面" loading="lazy">
+              
+            </div>
+            <div class="home-recommend-body">
+              <strong>好兆头 第三季</strong>
+            </div>
+          </a>
+        
+          <a class="home-recommend-card" href="/resources/legacy-post-29650/">
+            <div class="home-recommend-cover">
+              
+                <img src="https://img.binhd.com/douban-images/eef6d9846e197c045391ae7760c1d9c38c90b914f5a5cbde24b696b0cfd96546.jpg" alt="半个男人 封面" loading="lazy">
+              
+            </div>
+            <div class="home-recommend-body">
+              <strong>半个男人</strong>
+            </div>
+          </a>
+        
+          <a class="home-recommend-card" href="/resources/legacy-post-29587/">
+            <div class="home-recommend-cover">
+              
+                <img src="https://img.binhd.com/douban-images/8b681224dde6a36bdd1290b7c65f91a93ff9bbdbe521f931b49a1356f4fde485.jpg" alt="亢奋第三季 封面" loading="lazy">
+              
+            </div>
+            <div class="home-recommend-body">
+              <strong>亢奋第三季</strong>
+            </div>
+          </a>
+        
+          <a class="home-recommend-card" href="/resources/legacy-post-29580-21/">
+            <div class="home-recommend-cover">
+              
+                <img src="https://img.binhd.com/douban-images/0e9a5dd4664f847d77d9f53a2df9431bdf4849a8f540847fc9e03527e521fd66.jpg" alt="21世纪大君夫人 封面" loading="lazy">
+              
+            </div>
+            <div class="home-recommend-body">
+              <strong>21世纪大君夫人</strong>
+            </div>
+          </a>
+        
+          <a class="home-recommend-card" href="/resources/legacy-post-29553/">
+            <div class="home-recommend-cover">
+              
+                <img src="https://img.binhd.com/douban-images/12187f2177e419c6e464bb82957288f310cba7d5220078ebcaa874009f01358d.jpg" alt="黑袍纠察队第五季 封面" loading="lazy">
+              
+            </div>
+            <div class="home-recommend-body">
+              <strong>黑袍纠察队第五季</strong>
+            </div>
+          </a>
+        
+          <a class="home-recommend-card" href="/resources/he-tun-zhi-jia-shen-qi-de-shan-hu-jiao/">
+            <div class="home-recommend-cover">
+              
+                <img src="https://img.binhd.com/douban-images/83497fd22eb0c9667cb13c4f06b613f6e6139b9f783039ffee8f26c7618aebf6.webp" alt="河豚之家：神奇的珊瑚礁 封面" loading="lazy">
+              
+            </div>
+            <div class="home-recommend-body">
+              <strong>河豚之家：神奇的珊瑚礁</strong>
+            </div>
+          </a>
+        
+      </div>
+    </aside>
+  </div>
+</section>
+<section class="section-grid home-section-grid">
+  <article class="home-section-card">
+    <div class="home-section-head">
+      <div>
+        <h2>最新资源</h2>
+      </div>
+      <a class="home-mini-pill" href="/resources/">进入列表</a>
+    </div>
+    <div class="home-latest-grid">
+      
+        <article class="home-latest-card resource-card ">
+          <div class="resource-card-shell home-latest-card-shell">
+            <a class="resource-card-cover home-latest-card-cover" href="/resources/he-tun-zhi-jia-shen-qi-de-shan-hu-jiao/" aria-label="查看 河豚之家：神奇的珊瑚礁">
+              
+                <img src="https://img.binhd.com/douban-images/83497fd22eb0c9667cb13c4f06b613f6e6139b9f783039ffee8f26c7618aebf6.webp" alt="河豚之家：神奇的珊瑚礁 封面" loading="lazy">
+              
+            </a>
+            <div class="resource-card-body home-latest-card-body">
+              <h3><a href="/resources/he-tun-zhi-jia-shen-qi-de-shan-hu-jiao/">河豚之家：神奇的珊瑚礁</a></h3>
+              <div class="meta-row resource-card-meta-row">
+                <p class="eyebrow">纪录片</p>
+                
+                    
+                      <a class="pill resource-tag-link" href="?tag=2021">#2021</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E5%AE%B6%E5%BA%AD">#家庭</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A">#澳大利亚</a>
+                    
+                
+              </div>
+              <p class="muted home-latest-summary">一只河豚宝宝在大堡礁中寻找自己的家，一路游历遍布奇异生物的微小海底世界。</p>
+            </div>
+          </div>
+        </article>
+      
+        <article class="home-latest-card resource-card ">
+          <div class="resource-card-shell home-latest-card-shell">
+            <a class="resource-card-cover home-latest-card-cover" href="/resources/suo-fei-ya-yan-zhong-de-ma-ke/" aria-label="查看 索菲亚眼中的马克">
+              
+                <img src="https://img.binhd.com/douban-images/2080d6e41020577e790dbd8e7bc8f3b43bfa1bd2546f713db3f322d732b57436.webp" alt="索菲亚眼中的马克 封面" loading="lazy">
+              
+            </a>
+            <div class="resource-card-body home-latest-card-body">
+              <h3><a href="/resources/suo-fei-ya-yan-zhong-de-ma-ke/">索菲亚眼中的马克</a></h3>
+              <div class="meta-row resource-card-meta-row">
+                <p class="eyebrow">纪录片</p>
+                
+                    
+                      <a class="pill resource-tag-link" href="?tag=2025">#2025</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E7%BA%AA%E5%AE%9E">#纪实</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E7%BA%AA%E5%BD%95%E7%89%87">#纪录片</a>
+                    
+                
+              </div>
+              <p class="muted home-latest-summary">聚焦索菲亚·科波拉和知名设计师Marc Jacobs多年来的合作经历。</p>
+            </div>
+          </div>
+        </article>
+      
+        <article class="home-latest-card resource-card ">
+          <div class="resource-card-shell home-latest-card-shell">
+            <a class="resource-card-cover home-latest-card-cover" href="/resources/wei-chao-zhi-wang/" aria-label="查看 伪钞之王">
+              
+                <img src="https://img.binhd.com/douban-images/3f7f53c1d5faabf5eade1644d14a56331750813dc0484d1a9b9f92e59c545f3c.webp" alt="伪钞之王 封面" loading="lazy">
+              
+            </a>
+            <div class="resource-card-body home-latest-card-body">
+              <h3><a href="/resources/wei-chao-zhi-wang/">伪钞之王</a></h3>
+              <div class="meta-row resource-card-meta-row">
+                <p class="eyebrow">电影</p>
+                
+                    
+                      <a class="pill resource-tag-link" href="?tag=2025">#2025</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E5%89%A7%E6%83%85">#剧情</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E6%B3%95%E5%9B%BD">#法国</a>
+                    
+                
+              </div>
+              <p class="muted home-latest-summary">The story charts how young Polish refugee Jan Bojarski became the biggest counterfeiter of all time, “the Cézanne of fake money”, in post-war France; how, for over fifteen years and unbeknownst to his family, this man led a double life making counterfeit</p>
+            </div>
+          </div>
+        </article>
+      
+        <article class="home-latest-card resource-card ">
+          <div class="resource-card-shell home-latest-card-shell">
+            <a class="resource-card-cover home-latest-card-cover" href="/resources/hun-sha/" aria-label="查看 婚杀">
+              
+                <img src="https://img.binhd.com/douban-images/e180735a1c1c717b6415a51fb78bef87f962002357c39f9cc84da0874f6941e9.webp" alt="婚杀 封面" loading="lazy">
+              
+            </a>
+            <div class="resource-card-body home-latest-card-body">
+              <h3><a href="/resources/hun-sha/">婚杀</a></h3>
+              <div class="meta-row resource-card-meta-row">
+                <p class="eyebrow">电影</p>
+                
+                    
+                      <a class="pill resource-tag-link" href="?tag=2026">#2026</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E6%83%8A%E6%82%9A">#惊悚</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E7%94%B5%E5%BD%B1">#电影</a>
+                    
+                
+              </div>
+              <p class="muted home-latest-summary">Caleb Wingate is given a choice over who lives and dies on his wedding day by an assassin known as The Wolf.</p>
+            </div>
+          </div>
+        </article>
+      
+        <article class="home-latest-card resource-card ">
+          <div class="resource-card-shell home-latest-card-shell">
+            <a class="resource-card-cover home-latest-card-cover" href="/resources/fang-feng-shao-nian/" aria-label="查看 防风少年">
+              
+                <img src="https://img.binhd.com/douban-images/ae1a5ad2a9751d757f4148ff4092c596ad97eedb797d60ba643661f252331ded.webp" alt="防风少年 封面" loading="lazy">
+              
+            </a>
+            <div class="resource-card-body home-latest-card-body">
+              <h3><a href="/resources/fang-feng-shao-nian/">防风少年</a></h3>
+              <div class="meta-row resource-card-meta-row">
+                <p class="eyebrow">电影</p>
+                
+                    
+                      <a class="pill resource-tag-link" href="?tag=2025">#2025</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E5%89%A7%E6%83%85">#剧情</a>
+                    
+                      <a class="pill resource-tag-link" href="?tag=%E6%97%A5%E6%9C%AC">#日本</a>
+                    
+                
+              </div>
+              <p class="muted home-latest-summary">本片改编自同名人气不良少年漫画，以“偏差值最低、打架最强”的风铃高校为舞台，讲述为成为最强而来到这座城市的少年樱遥（水上恒司 饰），加入守护街道的义气不良组织“防风铃”，与伙伴们并肩作战、守护街道的热血故事。</p>
+            </div>
+          </div>
+        </article>
+      
+        <article class="home-latest-card resource-card ">
+          <div class="resource-card-shell home-latest-card-shell">
+            <a class="resource-card-cover home-latest-card-cover" href="/resources/yi-bu-sai-er-wei-ya-dian-ying/" aria-label="查看 一部塞尔维亚电影">
+              
+                <span class="resource-card-cover-placeholder">一</span>
+              
+            </a>
+            <div class="resource-card-body home-latest-card-body">
+              <h3><a href="/resources/yi-bu-sai-er-wei-ya-dian-ying/">一部塞尔维亚电影</a></h3>
+              <div class="meta-row resource-card-meta-row">
+                <p class="eyebrow">电影</p>
+                
+              </div>
+              <p class="muted home-latest-summary">米洛什是色情演员，当退出舞台之后，生活拮据，他时时回想起以前的光辉岁月，表情颇为难舍，仿佛现在温馨的家庭生活并不能满足他。儿子偷看他的色圞情影片，他也不以为意。 为了过上上层社会的生活，米洛什重操旧业，在他们那个统治社会，笑贫不笑娼。才使得刚开始的米洛什家庭温馨和睦。 与妻儿生活在一起的成人片过气男星米洛什得到了一份令他惊喜的合同，他将重新出山，在一部巨资打造的、事先不知道剧本的影片中担任男主角。起初认为只不过是一些露骨生活场景的拍摄，但越来越多的残酷暴力的场面设计却让米洛什料想不及，最终导致他混淆于现实</p>
+            </div>
+          </div>
+        </article>
+      
+    </div>
+  </article>
+  <article class="home-section-card">
+    <div class="home-section-head">
+      <div>
+        <h2>热门分类</h2>
+      </div>
+      <a class="home-mini-pill" href="/resources/">全部资源</a>
+    </div>
+    <div class="home-list">
+      
+        <a class="home-list-item" href="/resources/?category=movie">
+          <div>
+            <strong>电影</strong>
+            <p class="muted">16964 个资源</p>
+          </div>
+          <span class="home-mini-pill">进入</span>
+        </a>
+      
+        <a class="home-list-item" href="/resources/?category=tv">
+          <div>
+            <strong>电视剧</strong>
+            <p class="muted">9880 个资源</p>
+          </div>
+          <span class="home-mini-pill">进入</span>
+        </a>
+      
+        <a class="home-list-item" href="/resources/?category=anime">
+          <div>
+            <strong>动漫</strong>
+            <p class="muted">563 个资源</p>
+          </div>
+          <span class="home-mini-pill">进入</span>
+        </a>
+      
+        <a class="home-list-item" href="/resources/?category=documentary">
+          <div>
+            <strong>纪录片</strong>
+            <p class="muted">263 个资源</p>
+          </div>
+          <span class="home-mini-pill">进入</span>
+        </a>
+      
+        <a class="home-list-item" href="/resources/?category=variety">
+          <div>
+            <strong>综艺</strong>
+            <p class="muted">172 个资源</p>
+          </div>
+          <span class="home-mini-pill">进入</span>
+        </a>
+      
+        <a class="home-list-item" href="/resources/?category=short-drama">
+          <div>
+            <strong>短剧</strong>
+            <p class="muted">37 个资源</p>
+          </div>
+          <span class="home-mini-pill">进入</span>
+        </a>
+      
+        <a class="home-list-item" href="/resources/?category=game">
+          <div>
+            <strong>游戏</strong>
+            <p class="muted">13 个资源</p>
+          </div>
+          <span class="home-mini-pill">进入</span>
+        </a>
+      
+        <a class="home-list-item" href="/resources/?category=doc">
+          <div>
+            <strong>文档</strong>
+            <p class="muted">3 个资源</p>
+          </div>
+          <span class="home-mini-pill">进入</span>
+        </a>
+      
+        <a class="home-list-item" href="/resources/?category=tutorial">
+          <div>
+            <strong>教程</strong>
+            <p class="muted">1 个资源</p>
+          </div>
+          <span class="home-mini-pill">进入</span>
+        </a>
+      
+    </div>
+  </article>
+
+  
+  
+  
+</section>
+
+  </main>
+  <footer class="site-footer">
+    <div class="site-footer-inner">
+      <p>© 2026 云集</p>
+    </div>
+  </footer>
+  <button class="back-to-top" id="back-to-top" type="button" aria-label="回到顶部" title="回到顶部">
+    ↑
+  </button>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const currentTheme = html.getAttribute('data-theme');
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      updateThemeIcon(newTheme);
+    }
+
+    function updateThemeIcon(theme) {
+      const icon = document.getElementById('theme-icon');
+      if (icon) {
+        icon.textContent = theme === 'dark' ? '☀️' : '🌙';
+      }
+    }
+
+    // Set initial icon
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    updateThemeIcon(currentTheme);
+
+    const backToTopButton = document.getElementById('back-to-top');
+
+    function syncBackToTopButton() {
+      if (!backToTopButton) {
+        return;
+      }
+      backToTopButton.classList.toggle('is-visible', window.scrollY > 320);
+    }
+
+    if (backToTopButton) {
+      window.addEventListener('scroll', syncBackToTopButton, { passive: true });
+      backToTopButton.addEventListener('click', function () {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      syncBackToTopButton();
+    }
+
+    document.querySelectorAll('[data-toast]').forEach(function (toast, index) {
+      var removeToast = function () {
+        if (!toast.isConnected) {
+          return;
+        }
+        toast.classList.add('is-leaving');
+        window.setTimeout(function () {
+          if (!toast.isConnected) {
+            return;
+          }
+          var parent = toast.parentNode;
+          toast.remove();
+          if (parent && !parent.children.length) {
+            parent.remove();
+          }
+        }, 220);
+      };
+
+      window.setTimeout(removeToast, 2200 + index * 180);
+      toast.addEventListener('click', removeToast);
+    });
+  </script>
+  
+</body>
+</html>

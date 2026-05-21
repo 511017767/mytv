@@ -1,0 +1,3195 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>NBA直播_足球直播_赛事在线看</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="高清免费体育直播，NBA直播线上看，足球直播，英超直播，西甲直播，欧冠直播等。 全部赛事录影回放，体育新闻资讯。">
+    
+    <link rel="icon" href="/storage/images/5bed9d68f41acd7516acdbffad9693b9.ico">
+    
+    <link rel="canonical" href="https://www.88kanqiu.one"/>
+    
+
+    <link rel="stylesheet" href='/static/libs/bootstrap/3.4.1/css/bootstrap.min.css'>
+    <link rel="stylesheet" href='/static/css/pc.css?t=1776754079'>
+    <link rel="stylesheet" href='/static/css/sss.css?t=1776754079'>
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-147241604-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+    dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', 'UA-147241604-1');
+</script>
+</head>
+
+<body>
+<noscript>
+    <div class="container">
+        <div class="alert alert-warning" role="alert">您的浏览器禁用了 JavaScript，部分功能可能无法使用，请启用 JavaScript 以获得更好的用户体验。</div>
+    </div>
+</noscript>
+<div class="wrap">
+    <nav class="navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand customer-navbar-brand" href="/">
+                <img alt="Logo" src="/storage/images/d0170ac257b781a7d9510c4c918e9e0c.svg">
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav customer-navbar-nav customer-navbar-nav">
+                <li class=' nav-active '>
+                    <a href="/">
+                        直播
+                    </a>
+                </li>
+                <li class=''>
+                    <a href='/replay'>
+                        录像/集锦
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</nav>
+
+    
+<div class="container">
+    <div class="col-md-3">
+        <ul class="category-nav nav nav-pills nav-stacked live-nav-pills">
+    <li class="active">
+        <a class="all" href="/">全部直播</a>
+    </li>
+    
+    <li class="nav-header category-nav-header">篮球直播</li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/1/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="NBA"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="https://mat1.gtimg.com/sports/sportapp/liansai_logo/NBA.png">NBA
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/2/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="CBA"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="https://mat1.gtimg.com/sports/sportapp/liansai_logo/CBA.png">CBA
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/20/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="WNBA"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/wnba.png">WNBA
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/4/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="篮球综合"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="https://mat1.gtimg.com/sports/sportapp/liansai_logo/bbother.png">篮球综合
+        </a>
+    </li>
+    
+    
+    <li class="nav-header category-nav-header">足球直播</li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/3/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="世界杯"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/world-cup.png">世界杯
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/8/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="英超"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/yingchao.png">英超
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/9/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="西甲"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/xijia.png">西甲
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/10/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="意甲"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="https://duihui.duoduocdn.com/zuqiu/lg_yijia_518051.png">意甲
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/14/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="德甲"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/dejia.png">德甲
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/15/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="法甲"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/fajia.png">法甲
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/12/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="欧冠"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/ouguan.png">欧冠
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/13/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="欧联"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/oulian.png">欧联
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/7/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="中超"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="https://mat1.gtimg.com/sports/sportapp/liansai_logo/zhongchao.png">中超
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/11/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="亚冠"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="https://mat1.gtimg.com/sports/sportapp/liansai_logo/yaguan.png">亚冠
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/27/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="足总杯"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="https://cdn.leisu.com/eventlogo/2023/08/03/FvoERKrcJek31pVJUHsbxHbpOi-m.png!avatar">足总杯
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/26/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="美职联"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/mls.png">美职联
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/31/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="中甲"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/zhongjia.png">中甲
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/23/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="足球综合"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="https://mat1.gtimg.com/sports/sportapp/liansai_logo/ftother.png">足球综合
+        </a>
+    </li>
+    
+    
+    <li class="nav-header category-nav-header">其他直播</li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/21/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="体育电视台"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/tv.png">体育电视台
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/29/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="网球"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/wangqiu.png">网球
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/25/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="NFL"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/nfl.png">NFL
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/19/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="羽毛球"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/cate/yumao_1.png">羽毛球
+        </a>
+    </li>
+    
+    <li class="">
+        <a style="padding: 0 15px;" href='/match/38/live'>
+            <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="棒球"
+                 referrerPolicy="no-referrer" width="45px"
+                 data-src="/storage/images/mlb.png">棒球
+        </a>
+    </li>
+    
+    
+</ul>
+
+    </div>
+    <div class="col-md-9">
+        <div class="module-title-container">
+    <h1 class="module-title">直播</h1>
+    <div class="clear"></div>
+</div>
+<div class="sss-container" data-uuid="465ee016-be36-11ec-bd49-0800276941af"></div>
+<ul class="list-group">
+    
+    
+    <li class="list-group-item live-list-group-time">
+        <span class="date"></span>
+        2026-05-16
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">18:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国男子篮球青年锦标赛U21</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="南京同曦U21">南京同曦U21</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="南京同曦U21"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="上海久事U21"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="上海久事U21">
+                                              上海久事U21</span>
+                </div>
+
+                <div data-id="121876" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank"
+                       style="border-color:#4682f7;background: #4682f7; color: white;"
+                       class="btn btn-default"
+                       href='/live/121876/play'
+                       role="button">已结束</a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">18:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国男子篮球青年锦标赛U21</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="山西汾酒U21">山西汾酒U21</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="山西汾酒U21"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="苏科雄狮U21"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="苏科雄狮U21">
+                                              苏科雄狮U21</span>
+                </div>
+
+                <div data-id="121877" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank"
+                       style="border-color:#4682f7;background: #4682f7; color: white;"
+                       class="btn btn-default"
+                       href='/live/121877/play'
+                       role="button">已结束</a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">18:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">榕江(三宝侗寨)和美乡村足球超级联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="黔东南队">黔东南队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="黔东南队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="黔南队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="黔南队">
+                                              黔南队</span>
+                </div>
+
+                <div data-id="121879" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank"
+                       style="border-color:#4682f7;background: #4682f7; color: white;"
+                       class="btn btn-default"
+                       href='/live/121879/play'
+                       role="button">已结束</a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国足球超级联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="武汉三镇">武汉三镇</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="武汉三镇"
+                         referrerPolicy="no-referrer"
+                         data-src="https://sd.qunliao.info/fastdfs4/M00/C8/8D/ChNLklx6OwGAJEwkAACB7TMEL9s771.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="辽宁铁人"
+                         referrerPolicy="no-referrer"
+                         data-src="https://cdn.leisu.com/teamflag_s/397d818606313c61463149fe0ca986a8.png!avatar "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="辽宁铁人">
+                                              辽宁铁人</span>
+                </div>
+
+                <div data-id="119870" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/119870/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国足协杯</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="广州蒲公英">广州蒲公英</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="广州蒲公英"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="无锡吴钩"
+                         referrerPolicy="no-referrer"
+                         data-src="https://cdn.leisu.com/teamflag_s/509b91468e833ffe3fd9edd04f06ddee.png!avatar "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="无锡吴钩">
+                                              无锡吴钩</span>
+                </div>
+
+                <div data-id="121878" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121878/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">内蒙古自治区足球超级联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="通辽队">通辽队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="通辽队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="锡林郭勒盟队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="锡林郭勒盟队">
+                                              锡林郭勒盟队</span>
+                </div>
+
+                <div data-id="121881" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121881/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">山东齐鲁足球超级联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="青岛海牛">青岛海牛</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="青岛海牛"
+                         referrerPolicy="no-referrer"
+                         data-src="https://sd.qunliao.info/fastdfs6/M00/7B/83/rBUESWILWFqAcqM9AABsTvIPlX8444.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="日照队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="日照队">
+                                              日照队</span>
+                </div>
+
+                <div data-id="121882" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121882/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国足协杯</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="榆林矿工旅投">榆林矿工旅投</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="榆林矿工旅投"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="苏州东吴"
+                         referrerPolicy="no-referrer"
+                         data-src="https://cdn.leisu.com/teamflag_s/bb318757b867c541d704d93053aa1bfb.png!avatar "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="苏州东吴">
+                                              苏州东吴</span>
+                </div>
+
+                <div data-id="121880" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121880/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">内蒙古自治区足球超级联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="鄂尔多斯队">鄂尔多斯队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="鄂尔多斯队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="包头队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="包头队">
+                                              包头队</span>
+                </div>
+
+                <div data-id="121884" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121884/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">山东齐鲁足球超级联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="威海队">威海队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="威海队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="枣庄队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="枣庄队">
+                                              枣庄队</span>
+                </div>
+
+                <div data-id="121885" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121885/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">山东齐鲁足球超级联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="潍坊队">潍坊队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="潍坊队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="菏泽队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="菏泽队">
+                                              菏泽队</span>
+                </div>
+
+                <div data-id="121886" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121886/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="梅州队">梅州队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="梅州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="惠州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="惠州队">
+                                              惠州队</span>
+                </div>
+
+                <div data-id="121887" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121887/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="河源队">河源队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="河源队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="韶关队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="韶关队">
+                                              韶关队</span>
+                </div>
+
+                <div data-id="121888" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121888/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="清远队">清远队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="清远队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="深圳新鹏城"
+                         referrerPolicy="no-referrer"
+                         data-src="https://sd.qunliao.info/fastdfs7/M00/44/FE/rBUC6GXMkeyASCkzAABoH7KLM-4511.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="深圳新鹏城">
+                                              深圳新鹏城</span>
+                </div>
+
+                <div data-id="121889" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121889/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="湛江队">湛江队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="湛江队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="江门队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="江门队">
+                                              江门队</span>
+                </div>
+
+                <div data-id="121890" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121890/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="肇庆队">肇庆队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="肇庆队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="云浮队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="云浮队">
+                                              云浮队</span>
+                </div>
+
+                <div data-id="121891" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121891/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">浙江省足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="温州队">温州队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="温州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="杭州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="杭州队">
+                                              杭州队</span>
+                </div>
+
+                <div data-id="121892" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121892/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">浙江省足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="金华队">金华队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="金华队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="湖州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="湖州队">
+                                              湖州队</span>
+                </div>
+
+                <div data-id="121893" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121893/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市篮球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="云浮">云浮</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="云浮"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="中山"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="中山">
+                                              中山</span>
+                </div>
+
+                <div data-id="121894" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121894/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市篮球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="广州">广州</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="广州"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="江门"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="江门">
+                                              江门</span>
+                </div>
+
+                <div data-id="121895" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121895/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市篮球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="揭阳">揭阳</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="揭阳"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="河源"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="河源">
+                                              河源</span>
+                </div>
+
+                <div data-id="121896" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121896/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市篮球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="深圳">深圳</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="深圳"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="梅州"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="梅州">
+                                              梅州</span>
+                </div>
+
+                <div data-id="121897" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121897/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市篮球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="湛江">湛江</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="湛江"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="佛山"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="佛山">
+                                              佛山</span>
+                </div>
+
+                <div data-id="121898" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121898/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市篮球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="潮州">潮州</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="潮州"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="东莞"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="东莞">
+                                              东莞</span>
+                </div>
+
+                <div data-id="121899" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121899/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市篮球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="珠海">珠海</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="珠海"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="茂名"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="茂名">
+                                              茂名</span>
+                </div>
+
+                <div data-id="121900" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121900/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">广东省城市篮球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="阳江">阳江</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="阳江"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="肇庆"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="肇庆">
+                                              肇庆</span>
+                </div>
+
+                <div data-id="121901" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121901/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国足球超级联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="山东泰山">山东泰山</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="山东泰山"
+                         referrerPolicy="no-referrer"
+                         data-src="https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="重庆铜梁龙"
+                         referrerPolicy="no-referrer"
+                         data-src="https://cdn.leisu.com/teamflag_s/f33bed5429b4f145fc7e3806c9e7cc89.png!avatar "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="重庆铜梁龙">
+                                              重庆铜梁龙</span>
+                </div>
+
+                <div data-id="119871" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/119871/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">CBA</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="浙江方兴渡">浙江方兴渡</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="浙江方兴渡"
+                         referrerPolicy="no-referrer"
+                         data-src="https://mat1.gtimg.com/sports/CBAlogo/guangsha.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="深圳"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="深圳">
+                                              深圳</span>
+                </div>
+
+                <div data-id="121871" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121871/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国男子篮球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="浙江方兴渡">浙江方兴渡</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="浙江方兴渡"
+                         referrerPolicy="no-referrer"
+                         data-src="https://mat1.gtimg.com/sports/CBAlogo/guangsha.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="深圳马可波罗"
+                         referrerPolicy="no-referrer"
+                         data-src="https://sd.qunliao.info/fastdfs6/M00/4F/7E/rBUCgGF2g4aAAK08AABMoMrPjjk650.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="深圳马可波罗">
+                                              深圳马可波罗</span>
+                </div>
+
+                <div data-id="121883" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121883/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">云南省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="怒江队">怒江队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="怒江队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="红河队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="红河队">
+                                              红河队</span>
+                </div>
+
+                <div data-id="121911" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121911/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">云南省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="普洱队">普洱队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="普洱队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="保山队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="保山队">
+                                              保山队</span>
+                </div>
+
+                <div data-id="121912" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121912/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">云南省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="曲靖队">曲靖队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="曲靖队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="玉溪队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="玉溪队">
+                                              玉溪队</span>
+                </div>
+
+                <div data-id="121913" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121913/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">云南省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="西双版纳队">西双版纳队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="西双版纳队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="大理队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="大理队">
+                                              大理队</span>
+                </div>
+
+                <div data-id="121914" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121914/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">四川省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="德阳队">德阳队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="德阳队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="宜宾队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="宜宾队">
+                                              宜宾队</span>
+                </div>
+
+                <div data-id="121915" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121915/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">四川省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="自贡队">自贡队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="自贡队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="成都队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="成都队">
+                                              成都队</span>
+                </div>
+
+                <div data-id="121916" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121916/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">四川省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="达州队">达州队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="达州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="乐山队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="乐山队">
+                                              乐山队</span>
+                </div>
+
+                <div data-id="121917" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121917/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">湖北省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="十堰武当">十堰武当</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="十堰武当"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="恩施队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="恩施队">
+                                              恩施队</span>
+                </div>
+
+                <div data-id="121918" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121918/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">湖北省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="咸宁外星人">咸宁外星人</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="咸宁外星人"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="荆门队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="荆门队">
+                                              荆门队</span>
+                </div>
+
+                <div data-id="121919" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121919/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">湖北省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="宜昌东阳光">宜昌东阳光</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="宜昌东阳光"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="荆州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="荆州队">
+                                              荆州队</span>
+                </div>
+
+                <div data-id="121920" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121920/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">湖北省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="潜江队">潜江队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="潜江队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="孝感队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="孝感队">
+                                              孝感队</span>
+                </div>
+
+                <div data-id="121921" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121921/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">湖北省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="襄阳东风风神">襄阳东风风神</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="襄阳东风风神"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="神农架队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="神农架队">
+                                              神农架队</span>
+                </div>
+
+                <div data-id="121922" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121922/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">湖北省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="黄冈队">黄冈队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="黄冈队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="黄石队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="黄石队">
+                                              黄石队</span>
+                </div>
+
+                <div data-id="121923" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121923/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">福建省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="三明队">三明队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="三明队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="福州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="福州队">
+                                              福州队</span>
+                </div>
+
+                <div data-id="121924" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121924/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">福建省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="南平队">南平队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="南平队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="厦门队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="厦门队">
+                                              厦门队</span>
+                </div>
+
+                <div data-id="121925" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121925/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">福建省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="平潭队">平潭队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="平潭队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="宁德队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="宁德队">
+                                              宁德队</span>
+                </div>
+
+                <div data-id="121926" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121926/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">福建省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="泉州队">泉州队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="泉州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="漳州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="漳州队">
+                                              漳州队</span>
+                </div>
+
+                <div data-id="121927" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121927/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:35
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">福建省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="龙岩队">龙岩队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="龙岩队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="莆田队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="莆田队">
+                                              莆田队</span>
+                </div>
+
+                <div data-id="121928" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121928/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:40
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">江苏省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="常州队">常州队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="常州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="淮安队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="淮安队">
+                                              淮安队</span>
+                </div>
+
+                <div data-id="121872" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121872/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:40
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">江苏省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="扬州队">扬州队</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="扬州队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="镇江队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="镇江队">
+                                              镇江队</span>
+                </div>
+
+                <div data-id="121929" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121929/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">19:40
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">江苏省城市足球联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="苏州东吴">苏州东吴</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="苏州东吴"
+                         referrerPolicy="no-referrer"
+                         data-src="https://cdn.leisu.com/teamflag_s/bb318757b867c541d704d93053aa1bfb.png!avatar"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="连云港队"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="连云港队">
+                                              连云港队</span>
+                </div>
+
+                <div data-id="121930" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121930/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">20:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国足球超级联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="云南玉昆">云南玉昆</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="云南玉昆"
+                         referrerPolicy="no-referrer"
+                         data-src="https://cdn.leisu.com/teamflag_s/f38e579b46f8d1c532a0ce517c01d1c3.png!avatar"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="上海申花"
+                         referrerPolicy="no-referrer"
+                         data-src="https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="上海申花">
+                                              上海申花</span>
+                </div>
+
+                <div data-id="119872" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/119872/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">20:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国男子篮球青年锦标赛U21</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="四川锦城U21">四川锦城U21</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="四川锦城U21"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="深圳新世纪U21"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="深圳新世纪U21">
+                                              深圳新世纪U21</span>
+                </div>
+
+                <div data-id="121931" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121931/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">20:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">中国男子篮球青年锦标赛U21</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="广东东阳光U21">广东东阳光U21</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="广东东阳光U21"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="江苏肯帝亚U21"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="江苏肯帝亚U21">
+                                              江苏肯帝亚U21</span>
+                </div>
+
+                <div data-id="121932" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121932/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">21:00
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">哈萨克斯坦篮球甲组联赛</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="阿拉木图">阿拉木图</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="阿拉木图"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="卡斯比阿克套"
+                         referrerPolicy="no-referrer"
+                         data-src="/static/img/default.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="卡斯比阿克套">
+                                              卡斯比阿克套</span>
+                </div>
+
+                <div data-id="121934" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank" class="btn btn-primary"
+                       href='/live/121934/play'
+                       role="button">直播中<i class="glyphicon glyphicon-play"></i></a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="list-group-item group-game-item">
+        <div style="padding:0 17px" class="row justify-content-between align-items-center">
+            <div class="row d-none d-lg-flex justify-content-between align-items-center vertical-center">
+                <div class="col-md-1 category-game-time">21:30
+                </div>
+                <div class="col-md-3">
+                    <div class=""><span
+                            class="game-type">德甲</span>
+                    </div>
+                </div>
+                <div class="col-md-4 text-right">
+                                    <span class="team-name"
+                                          title="勒沃库森">勒沃库森</span>
+                </div>
+                <div class="col-xs-1 text-right" style="padding: 0;">
+                    <img class="lazyload" src="/static/img/default.png?t=1776754079" alt="勒沃库森"
+                         referrerPolicy="no-referrer"
+                         data-src="https://mat1.gtimg.com/sports/logo/15-16ouguan/lwks.png"
+                         style="width: 36px;">
+                </div>
+                <div class="col-md-1 text-center">
+                    VS
+                </div>
+                <div class="col-xs-1 text-left" style="padding: 0;">
+                    <img src="/static/img/default.png?t=1776754079" alt="汉堡"
+                         referrerPolicy="no-referrer"
+                         data-src="https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2IWAeM_dAAADCpGzfFg258.png "
+                         class="team-logo boss lazyload" style="width: 36px;">
+                </div>
+                <div class="col-md-3 text-left">
+                                            <span class="team-name" title="汉堡">
+                                              汉堡</span>
+                </div>
+
+                <div data-id="121902" class="col-md-3 pay-btn text-right">
+                    
+                    
+                    <a target="_blank"
+                       style="border-color:#4682f7;background: #4682f7; color: white;"
+                       class="btn btn-default"
+                       href='/live/121902/play'
+                       role="button">未开始</a>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </li>
+    
+    
+    
+</ul>
+        
+        
+<div class="module-title-container">
+    <h2 class="module-title">热门球队</h2>
+    <div class="clear"></div>
+</div>
+<div style="padding-top: 5px">
+    <ul class="list-unstyled row">
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/5897/live'>奥地利直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2484/live'>马尔默直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/7590/live'>皇家奥维耶多直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/4327/live'>南安普顿直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2370/live'>掘金直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2667/live'>加拉茨钢铁直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2613/live'>特鲁瓦直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2380/live'>马刺直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/5366/live'>加的斯直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/5850/live'>突尼斯直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2361/live'>活塞直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/5843/live'>美国直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/6385/live'>德国女足直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2659/live'>谢里夫直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/6391/live'>哥斯达黎加女足直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2437/live'>萨索洛直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2495/live'>欧塞尔直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2375/live'>吉林九台直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2367/live'>骑士直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/3811/live'>利兹联直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/5898/live'>拉脱维亚直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/5871/live'>冰岛直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2609/live'>安德莱赫特直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2708/live'>基辅迪纳摩直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/5857/live'>俄罗斯直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/5911/live'>科索沃直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2658/live'>萨尔茨堡直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/3097/live'>埃尔切直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/7921/live'>尼日利亚女足直播</a>
+        </li>
+        
+        <li class="col-md-2 col-sm-6 col-xs-6">
+            <a class="list-item" href='/team/2493/live'>南特直播</a>
+        </li>
+        
+    </ul>
+</div>
+
+        
+<div class="module-title-container">
+    <h2 class="module-title">录像</h2>
+    
+    <a class="module-more" href='/replay'>More&gt;&gt;</a>
+    
+    <div class="clear"></div>
+</div>
+<div style="padding-top: 5px">
+    <ul class="list-unstyled row">
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145924'>【NBA季后赛西部半决赛G6】2026年05月16日 森林狼vs马刺 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145922'>【NBA季后赛东部半决赛G6】2026年05月16日 骑士vs活塞 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145921'>【CBA季后赛半决赛G1】2026年05月15日 上海vs北京 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145915'>【全国U21青篮球锦标赛男子组第5轮】2026年05月15日 青岛国信海天U21vs北京首钢U21 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145914'>【全国U21青篮球锦标赛男子组第5轮】2026年05月15日 山西汾酒U21vs龙狮青年U21 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145913'>【全国U21青篮球锦标赛男子组第4轮】2026年05月14日 浙江广厦U21vs山西汾酒U21 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145912'>【全国U21青篮球锦标赛男子组第4轮】2026年05月14日 浙江稠州银行U21vs青岛国信海天U21 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145911'>【全国U21青篮球锦标赛男子组第4轮】2026年05月14日 广东宏远U21vs南京同曦U21 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145910'>【全国U21青篮球锦标赛男子组第4轮】2026年05月14日 苏科雄狮U21vs新疆广汇U21 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145923'>【英超】2026年05月16日 阿斯顿维拉vs利物浦 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145920'>【中超】2026年05月15日 北京国安vs青岛海牛 全场录像在线回放</a>
+        </li>
+        
+        <li class="col-md-6">
+            <a class="list-item" href='/replay/145919'>【中超】2026年05月15日 大连英博vs青岛西海岸 全场录像在线回放</a>
+        </li>
+        
+    </ul>
+</div>
+
+
+        
+        <div class="sss-container" data-uuid="465edcb3-be36-11ec-bd49-0800276941af"></div>
+    </div>
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="indexTipsContent">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">我知道啦</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="right-center">
+    <div class="sss-container" data-uuid="465ee209-be36-11ec-bd49-0800276941af">
+    </div>
+
+    <div class="sss-container" data-uuid="465ee479-be36-11ec-bd49-0800276941af">
+    </div>
+</div>
+<div class="container" style="padding: 0;">
+
+</div>
+<footer class="footer">
+    <div class="container">
+        <div class="footer-center">
+            <p><a target="_blank" style="color: rgb(12 105 242)" href="http://fk.88kq.cc/feedback">反馈报错</a></p>
+            <p>本站所有直播信号均由用户收集或从搜索引擎整理获得，内容均来自互联网，我们不提供任何直播或视频内容，如有侵权请通知我们，我们会立即处理。</p>
+            <p>联系我们：<a href="mailto:tomhanks0203@gmail.com">tomhanks0203@gmail.com</a></p>
+            
+            <p>
+                
+                <a  target="_blank"  href="https://www.88kanqiu.tw">足球直播</a>&nbsp;&nbsp;
+                
+                <a  target="_blank"  href="https://www.88zhibo.cc/match/1/live">NBA直播</a>&nbsp;&nbsp;
+                
+                <a  target="_blank"  href="https://www.ttdm4.me/">动漫线上看</a>&nbsp;&nbsp;
+                
+            </p>
+            
+
+        </div>
+    </div>
+</footer>
+
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJJ6VRK"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script src='/static/libs/jquery/3.1.1/jquery.min.js'></script>
+<script src='/static/libs/bootstrap/3.4.1/js/bootstrap.min.js'></script>
+<script src='/static/libs/lazysizes/5.3.2/lazysizes.min.js' async=""></script>
+<script src='/static/js/common.js?t=1776754079'></script>
+
+
+</body>
+</html>
