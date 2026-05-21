@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
+	<meta name="format-detection" content="telephone=no,email=no,date=no,address=no">
+	<title>听中国,海盗听书app,喜马拉雅听书免费版,有声小说,海盗听书官网</title>
+	<meta name="keywords" content="听中国,听中国听书,喜马拉雅听书免费版,免费听小说app,免费听书软件,免费听书,有声小说" />
+	<meta name="description" content="【听中国,海盗听书网】是中国比较丰富的有声小说资源库，提供各种精品有声小说免费试听,拥有喜马拉雅听书,懒人听书，蜻蜓fm，企鹅fm等精品有声小说免费试听资源,免费收听小说的app就在听中国，海盗听书网" />
+
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="renderer" content="webkit">
+	<meta http-equiv="Cache-Control" content="no-transform,no-cache, no-store, must-revalidate" />
+	<script src="/static/haidao/js/flexible/index.min.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/static/haidao/css/common.css">
+		
+	<script src="/static/haidao/js/jquery-1.11.2.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/static/lib/layer/layer.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/static/haidao/js/store.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/static/lib/vue/vue.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/static/haidao/js/common.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/static/lib/clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6395324458298892"
+     crossorigin="anonymous"></script>
+	<script>var _hmt = _hmt || [];(function() {  var hm = document.createElement("script");  hm.src = "https://hm.baidu.com/hm.js?75da8e027ebe3480c9b1beaaff92026a";  var s = document.getElementsByTagName("script")[0];   s.parentNode.insertBefore(hm, s);})();</script>
+	<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+	<script>LA.init({id: "JKXIcwkBN2VByqsN",ck: "JKXIcwkBN2VByqsN"})</script>
+
+</head>
+<link rel="stylesheet" href="/static/haidao/css/index.css">
+<link rel="stylesheet" href="/static/lib/swiperjs/css/swiper.min.css">
+<body>
+
+<!-- 建议把这两个外链脚本也挪到页尾并加 defer；此处保留但不影响首屏 -->
+<script src="/static/haidao/js/flexible.js" charset="utf-8"></script>
+<script src="/static/lib/swiperjs/js/swiper.min.js" charset="utf-8"></script>
+
+<div class="layer"></div>
+<div id="globalAd">
+  <div id='hero-img' style="background-color:#1a95ff;background:linear-gradient(to left,#5dadf3 0,#4583ca 100%);"></div>
+  <div id='profile-img'>
+    <img src="/images/logo.png" alt="logo" width="80" height="80" loading="eager" decoding="async"/>
+  </div>
+  <div id='content'>
+    <p style="font-size:16px;font-weight:bold;">访问提示</p>
+    <p>本站仅供经济能力有限人士收听</p>
+    <p>请支持正版：喜马拉雅、懒人听书等</p>
+    <a onclick="closeGlobalAd();" class="btn btn-default" rel="nofollow">已 阅</a>
+    <a href="https://www.ximalaya.com" onclick="redirectUrlToActive();" class="btn btn-default" rel="nofollow">支持正版</a>
+  </div>
+</div>
+
+<div class="home-wrapper page-width">
+  <div class="header">
+    <a href="/pc/index/search.html" class="search"><i class="icon-search"></i></a>
+    <div class="logo"><a href="/">听中国,海盗听书</a></div>
+    <a href="/record.html" class="record">收听记录</a>
+  </div>
+
+  <div class="scroll-wrapper">
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+                <div class="swiper-slide">
+          <a href="/book/12232.html">
+            <img
+              fetchpriority="high" loading="eager"              decoding="async"
+              src="https://app.365ting.com/uploads/20240520/50f3dff2948d9a209afc97ef989de407.jpg"
+              alt="封面"
+              onerror="this.onerror=null;this.src='/images/fallback.webp';"
+            >
+          </a>
+        </div>
+              </div>
+      <div class="swiper-pagination"></div>
+    </div>
+
+    <nav class="nav-list">
+      <a href="/fenlei.html" class="nav-list-item nav-type">
+        <span class="icon-wrapper"><i class="icon icon-type"></i></span><span>分类</span>
+      </a>
+      <a href="/pc/index/search.html" class="nav-list-item nav-search">
+        <span class="icon-wrapper"><i class="icon icon-search2"></i></span><span>搜索</span>
+      </a>
+      <a href="https://wwyw.lanzouq.com/s/tingchina" class="nav-list-item nav-rank">
+        <span class="icon-wrapper"><i class="icon icon-rank"></i></span><span>听中国APP-1.85版</span>
+      </a>
+      <a href="/pc/user/index.html" class="nav-list-item nav-type">
+        <span class="icon-wrapper"><i class="icon icon-user"></i></span><span>会员中心</span>
+      </a>
+      <a href="/record.html" class="nav-list-item nav-record">
+        <span class="icon-wrapper"><i class="icon icon-timing"></i></span><span>收听记录</span>
+      </a>
+    </nav>
+
+        <div class="notice" style="padding:0 .4rem;color:red;line-height:.5rem;">
+      <p>公告：【提示】蓝奏云提供广告随机版新版（取消计时），老用户可以进行蓝奏云下载，如果无法获取广告获取计时的，可下载新版本，选作品会出现广告，看您们的喜欢，任意选择不用卸载直接覆盖安装。祝大家新的一年里美美满满，健健康康！</p>
+    </div>
+    
+    <a href="" class="listen-btn">立即收听</a>
+
+    <div class="all-list">
+      <div class="home-list">
+        <div class="list-wrapper">
+          <h1 class="list-title">
+            推荐小说 <a href="/category.html" class="more">更多</a>
+          </h1>
+          <ul>
+                        <a href="/book/31.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/894f-audiofreehighqps/04/12/GMCoOSMF4-CNAANEhQEYVIZl.jpg!magick=webp"
+                       alt="北派盗墓笔记有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>北派盗墓笔记                  </h2>
+                  <div class="desc">北派盗墓笔记</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/老彩故事会                    <span class="split"></span><i class="icon-listen"></i>12.61万                    <span class="split"></span><span>09-03更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/64.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/228d-audiofreehighqps/D4/9C/GMCoOR4GnDFKAAbdDwF5EQvI.jpeg!magick=webp"
+                       alt="我有一剑有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>我有一剑                  </h2>
+                  <div class="desc">内容简介那一场大战后，人间再无靠山王。人族从此没落，大道崩塌，无数强者长眠大地。直到三千万年后。...</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/有声的紫襟                    <span class="split"></span><i class="icon-listen"></i>6.94万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/128.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/b24f-audiofreehighqps/68/E2/GMCoOSEIKatyAAq5xAIXe1LH.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"
+                       alt="天字第一当有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>天字第一当                  </h2>
+                  <div class="desc">一家白天看着平平无奇的当铺，却有一个奇怪的规矩，凡是典当物品，或者购买绝当物品的顾客，都会免费送上他们一卦、而最奇怪的是，这家当铺，一旦到了午夜就会迎来“光怪陆离“的客人们</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/有声的紫襟                    <span class="split"></span><i class="icon-listen"></i>7.89万                    <span class="split"></span><span>09-08更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/16.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/f412-audiofreehighqps/7C/DC/GMCoOSAIAYMuABAAAAIKvbZP.jpeg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"
+                       alt="灵境行者有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>灵境行者                  </h2>
+                  <div class="desc">灵境行者丨卖报小郎君口碑新作丨紫襟领衔多人有声剧</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/有声的紫襟                    <span class="split"></span><i class="icon-listen"></i>14.17万                    <span class="split"></span><span>05-20更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/32677.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/6643-audiofreehighqps/03/1C/GKwRIMALWaG_AAjN-wNSsklf.jpg!magick=webp"
+                       alt="抢我姻缘？转身嫁暴君夺后位有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>抢我姻缘？转身嫁暴君夺后位                  </h2>
+                  <div class="desc">沈知念再次睁眼，发现自己竟重生回了定亲前。嫡姐居然抢着要嫁给穷书生，让她入宫选秀。原来，嫡姐也重生了！这辈子，嫡姐想要的风光，全都不会有。 而帝王年轻俊美，后位空悬，入宫的女子皆有机会争上一争。一品诰命夫人，哪比得上母仪天下？这一世，这泼天的富贵，就让她来享吧！</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/熊猫青云                    <span class="split"></span><i class="icon-listen"></i>9.05万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/58.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/18c2-audiofreehighqps/BB/17/GKwRIW4KmdRrAASYrQMCw-iX.jpeg"
+                       alt="剑来（上下部）有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>剑来（上下部）                  </h2>
+                  <div class="desc">一个生长在北方的贫寒少年，当他有一天看到头顶竟有成千上万的御剑仙人，如同蝗群过境。他就想去亲眼去看一看，说书先生所说的那位读书人，东海的滔天大潮、西方的黄沙万里和南荒的巍峨大山。
+于是，终有一日，少年挎起木剑，开始南下！</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/大斌                    <span class="split"></span><i class="icon-listen"></i>22.74万                    <span class="split"></span><span>08-19更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/30639.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/67ed-audiofreehighqps/E7/04/GAqhF9kMGHRHAANLbAPBOtaj.jpeg!magick=webp"
+                       alt="星痕之门有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>星痕之门                  </h2>
+                  <div class="desc">世间有星门，入者皆成神。
+在监狱已服刑三年半的任也，突然被一位神秘人接见。
+对方说：“如果你愿意参加一个游戏，现在就可以出去，代价是……可能会死。”
+许多年后，任也孤身站在星门之中，回望前尘，记忆中许多身影都已经模糊……
+2025，潮汐将至，行者守岁。</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/头陀渊讲故事                    <span class="split"></span><i class="icon-listen"></i>8.83万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/36.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/ba25-audiofreehighqps/01/86/CKwRIMAEn3U-AAjGoQC6bDnb.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"
+                       alt="诡秘之主有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>诡秘之主                  </h2>
+                  <div class="desc">诡秘之主|多人有声剧丨西方奇幻克苏鲁（乌贼原著）</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/8082Audio                    <span class="split"></span><i class="icon-listen"></i>13.35万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/428.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/group68/M01/18/E1/wKgMeF3XzwnxQVqkAAFZPgIG4VI744.jpg!strip=1&quality=7&magick=webp&op_type=3&columns=290&rows=290"
+                       alt="一念永恒有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>一念永恒                  </h2>
+                  <div class="desc">一念永恒</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/头陀渊讲故事                    <span class="split"></span><i class="icon-listen"></i>10.92万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/121.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/group87/M00/06/BF/wKg5J19WEZiTxF5GAALTgwicAmM788.jpg!magick=webp"
+                       alt="上门龙婿有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>上门龙婿                  </h2>
+                  <div class="desc">叶辰是所有人都瞧不起的上门女婿，但没有人知道他的真实身份却是顶尖家族的大少爷，那些瞧不起他的人，终究要跪在他的面前，诚惶诚恐的叫他一声爷！（内容虚构，如有雷同，纯属巧合，文中内容不具有任何指向性）</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/经致听书                    <span class="split"></span><i class="icon-listen"></i>11.81万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/175.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/group63/M0A/F6/07/wKgMcl0mkQ7zPxaaAAOcMX4SYic744.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"
+                       alt="首席医官有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>首席医官                  </h2>
+                  <div class="desc">主人公从一个刚出校门、籍籍无名的小人物，依靠自己的真才实学和豁达胸襟，逐渐成长为到一个地方就为当地发展注入生机和活力的亦官亦医的成熟人才。步步升迁、处处成功之路具有生长励志意义。</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/阿陈书场                    <span class="split"></span><i class="icon-listen"></i>9.96万                    <span class="split"></span><span>09-03更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/34.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/group50/M02/06/8D/wKgKmVvgEhvBoBbYAAHJKQV3TSk608.jpg!magick=webp"
+                       alt="明朝那些事儿有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>明朝那些事儿                  </h2>
+                  <div class="desc">明朝那些事儿(当年明月著 王更新播讲)</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/王更新                    <span class="split"></span><i class="icon-listen"></i>12.51万                    <span class="split"></span><span>09-03更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/41.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/b482-audiofreehighqps/42/F6/GKwRIW4LR9utAAfalwNJaZve.jpeg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"
+                       alt="大奉打更人有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>大奉打更人                  </h2>
+                  <div class="desc">头陀渊领衔多人有声剧|畅听全集|王鹤棣、田曦薇主演影视剧原著|卖报小郎君</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/头陀渊讲故事                    <span class="split"></span><i class="icon-listen"></i>14.43万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/30602.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/2a3a-audiofreehighqps/6D/11/GKwRIW4L23EHAAX1jQOb7qWg.jpeg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"
+                       alt="重生1958：从窝在深山打猎开始有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>重生1958：从窝在深山打猎开始                  </h2>
+                  <div class="desc">21世纪的狙击手重生回到1958年，成了东北大兴安岭被冻死的普通山民。
+
+家中上有被赶出家门的母亲，下有四岁的小妹。
+
+房屋破落，缺衣少食。但庞北却丝毫不慌，他看着大兴安岭，在这片白山黑水的土地上，黑熊，野猪，东北虎，飞龙，傻狍子，野鸡等各种猎物处处都是！
+
+人参娃娃，榛蘑，野核桃……各种山珍到处都有！
+
+有这么多的资源，还怕没有吃的？没有穿的？
+
+扛起猎枪，揣上刀，牵上猎狗，庞北开始了赶山打猎养家的悠闲日子！</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/有声的紫襟                    <span class="split"></span><i class="icon-listen"></i>9.65万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/63.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/fe9f-audiofreehighqps/D9/DA/GKwRIJEGGtnIAAOdbwEyhidG.jpeg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"
+                       alt="凡人修仙传-光合积木有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>凡人修仙传-光合积木                  </h2>
+                  <div class="desc">一个普通的山村穷小子，偶然之下，跨入到一个江湖小门派，成了一名记名弟子。他以这样身份，如何在门派中立足,如何以平庸的资质进入到修仙者的行列，从而笑傲三界之中！又如何以平庸的资质，进入到修仙者的行列？和其他巨枭魔头、仙宗仙师并列于山海内外？修仙世界尔虞我诈、弱肉强食，大道漫漫，仙途凶险，看普通山村少年韩立如何艰难修仙。虽然资质平庸，但依靠自身努力和合理算计修炼成仙。修仙的过程极为不易，不仅需要克服自身的种种缺陷，同时还要接受敌人和天地的考验，经过重重“跋涉”才能得道。</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/光合积木                    <span class="split"></span><i class="icon-listen"></i>26.53万                    <span class="split"></span><span>09-18更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/80.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/group63/M09/C5/CD/wKgMaF0B_lHT0xh9AAGexs7WtMY059.jpg!magick=webp"
+                       alt="斗破苍穹有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>斗破苍穹                  </h2>
+                  <div class="desc">20亿网络点击神作|原著无删减</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/暮玖Ayla                    <span class="split"></span><i class="icon-listen"></i>8.94万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/59.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/2084-audiofreehighqps/9B/D0/GKwRIUEFdMpZAAMH6AD7Ck4F.jpg"
+                       alt="神秘复苏有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>神秘复苏                  </h2>
+                  <div class="desc">我叫杨间，当你看到这句话的时候我已经死了......”一张诡异的人皮卷，一只窥视黑暗的眼睛，这是一个活下来的人经历的故事。世界各地，恐怖正在复苏！想要活下去，就必须找到驾驭自己身体里那只厉鬼的方法！唯有洞察鬼的规律，才能抓住一线生机！但无论何时，你都要记住“人是杀不死鬼的，能对付鬼的只有鬼！"</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/传说中的方片K                    <span class="split"></span><i class="icon-listen"></i>21.32万                    <span class="split"></span><span>09-03更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/48.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/2809-audiofreehighqps/E2/58/GMCoOSYJ4ZUHAA9rdQLA16Wb.jpeg!magick=webp"
+                       alt="我的老千生涯紫荆版（全七部）有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">完结 | </span>我的老千生涯紫荆版（全七部）                  </h2>
+                  <div class="desc">在赌局上，生手怕熟手，熟手怕高手，高手怕千手，千手怕失手，所谓十赌九骗，唯一不骗你的一次是为钓你的鱼。千中有千局中有局，社会是一个比赌场更复杂的地方…现象级社会都市力作。带你走进神秘诡奇，充满尔虞我诈的老千江湖，看遍社会人心险恶。欺诈争斗圈套，输的不仅仅是金钱，还有人性，以及令人痛惜的美好。你不混社会，但你要懂社会！作者黑色枷锁，</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/有声的紫襟                    <span class="split"></span><i class="icon-listen"></i>12.09万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/249.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/3ecd-audiofreehighqps/E7/67/GKwRIDoIxztzAAMn9QJTyJkj.jpeg!magick=webp"
+                       alt="重生1980：开局迎娶姐姐闺蜜有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>重生1980：开局迎娶姐姐闺蜜                  </h2>
+                  <div class="desc">李毅重生了，回到了1980年的小山村!再一次面对唐雪求娶的请求，他没有犹豫，“我愿意”三个字说的掷地有声!前世的他猪油蒙心，眼睁睁的看着唐雪坠入黑暗!重活一世，他发誓一定要让她成为世界上最幸福的女人!而他，也要成为这个时代</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/头陀渊讲故事                    <span class="split"></span><i class="icon-listen"></i>7.64万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/38.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/c0dd-audiofreehighqps/6C/32/GKwRINsFo03QAAH-pgEIc7Jk.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"
+                       alt="赘婿-雅居版有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>赘婿-雅居版                  </h2>
+                  <div class="desc">郭麒麟&宋轶主演影视原著</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/雅居讲故事                    <span class="split"></span><i class="icon-listen"></i>7.36万                    <span class="split"></span><span>05-22更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/30645.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/1bd0-audiofreehighqps/41/B7/GAqhqKwMCfS7AAWLJAO4RE-z.jpeg!magick=webp"
+                       alt="都重生了谁考公务员啊有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>都重生了谁考公务员啊                  </h2>
+                  <div class="desc">省直公务员陈着意外重生自己高三的那一年。
+于是，一个木讷腼腆、和女生说话都会脸红、只知道学习的高中生；
+突然变得通晓人情世故，说话做事总是恰到好处，不仅改变了人生轨迹，也越来越吸引女孩子的关注。
+女生：陈着你有什么优点？
+陈着：人老实，话不多。
+发小：我觉得骗人是不对的，你现在一点都不老实。
+陈着：没骗！人老，实话不多。</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/有声的紫襟                    <span class="split"></span><i class="icon-listen"></i>10.68万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/30644.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/13e0-audiofreehighqps/4A/28/GAqhqKwMAhy1AA3hsgOzqg-R.jpeg!magick=webp"
+                       alt="九域凡仙有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>九域凡仙                  </h2>
+                  <div class="desc">仙路诡奇，人道卑微。众生皆浮屠，仙心如寒霜。少年方尘意外获得仙缘，心中却只有一愿：愿以手中仙剑，开万世太平！</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/头陀渊讲故事                    <span class="split"></span><i class="icon-listen"></i>10.5万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/42.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/f8e0-audiofreehighqps/F0/99/GKwRIRwGtVH_AAQUrAGHtTXS.jpeg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios"
+                       alt="逆天邪神有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>逆天邪神                  </h2>
+                  <div class="desc">火星引力|玄幻爆爽多人剧|群魔度佛</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/瓜子听书                    <span class="split"></span><i class="icon-listen"></i>8.45万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                        <a href="/book/45.html" class="item-link">
+              <li class="item">
+                <div class="icon">
+                  <img class="list-img"
+                       src="https://imagev2.xmcdn.com/storages/2d20-audiofreehighqps/8D/C0/GMCoOSUI4dWTAASIJwJeOn91.jpeg!magick=webp"
+                       alt="仙逆有声全集"
+                       loading="lazy" decoding="async"
+                       onerror="this.onerror=null;this.src='/images/fallback.webp';">
+                </div>
+                <div class="text">
+                  <h2 class="name">
+                    <span class="status">连载中 | </span>仙逆                  </h2>
+                  <div class="desc">边江工作室丨耳根丨徐宇隆丨动漫同名有声剧</div>
+                  <div class="broadcaster">
+                    <i class="icon-broad"></i>佚名/边江工作室                    <span class="split"></span><i class="icon-listen"></i>20.28万                    <span class="split"></span><span>05-13更新</span>
+                  </div>
+                </div>
+              </li>
+            </a>
+                      </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+<div class="footer">
+	<p style="margin-top: 10px;text-align: center;">推荐chrome浏览器收听</p>
+	<p style="color:#fff;margin-top: 10px;text-align: center;">©<a href="https://110.40.147.131" title="有声小说,听小说,听书网,听中国,海盗听书" style="color:#fff;">听中国,海盗听书有声小说资源库</a>
+
+	</p>
+
+</div>
+</div>
+
+<!-- 运行脚本：等 DOM 准备好，确保 header 里用 defer 加载的库均已可用 -->
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    // 初始化 Swiper
+    if (window.Swiper) {
+      new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        paginationClickable: true,
+        spaceBetween: 30,
+        centeredSlides: true,
+        autoplay: 2500,
+        autoplayDisableOnInteraction: false
+      });
+    }
+
+    // “立即收听”按钮：读取本地播放记录
+    const PLAY_KEY = '__play__';
+    try {
+      let playHistory = (window.store && store.get(PLAY_KEY)) || [];
+      let lisBtn = document.getElementsByClassName('listen-btn')[0];
+      if (playHistory.length) {
+        lisBtn.style.display = 'block';
+        lisBtn.href = playHistory[0].playurl;
+        lisBtn.innerText = '上次收听到：' + playHistory[0].book_title + ' ' + playHistory[0].chapterTitle;
+      } else {
+        lisBtn.style.display = 'none';
+      }
+    } catch(e) {}
+
+    // 简易 cookie（保持你原逻辑）
+    jQuery.cookie = function(name, value, options) {
+      if (typeof value != 'undefined') {
+        options = options || {};
+        if (value === null) { value = ''; options.expires = -1; }
+        var expires = '';
+        if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+          var date;
+          if (typeof options.expires == 'number') {
+            date = new Date();
+            var totalTime = 24 * 3600;
+            var hour = date.getHours();
+            var minutes = date.getMinutes();
+            var seconds = date.getSeconds();
+            var pastTime = 3600 * hour + 60 * minutes + seconds;
+            var leftTime = totalTime - pastTime;
+            date.setTime(date.getTime() + (options.expires * leftTime * 1000));
+          } else { date = options.expires; }
+          expires = '; expires=' + date.toUTCString();
+        }
+        var path = options.path ? '; path=' + (options.path) : '';
+        var domain = options.domain ? '; domain=' + (options.domain) : '';
+        var secure = options.secure ? '; secure' : '';
+        document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+      } else {
+        var cookieValue = null;
+        if (document.cookie && document.cookie != '') {
+          var cookies = document.cookie.split(';');
+          for (var i = 0; i < cookies.length; i++) {
+            var cookie = jQuery.trim(cookies[i]);
+            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+              cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+              break;
+            }
+          }
+        }
+        return cookieValue;
+      }
+    };
+
+    // 弹窗展示/关闭
+    (function () {
+      var COOKIE_NAME = "erdangjiade";
+      if (jQuery.cookie(COOKIE_NAME)) {
+        document.querySelector(".layer").style.display = 'none';
+        document.getElementById("globalAd").style.display = 'none';
+      } else {
+        var erdangjiadeH = window.innerHeight;
+        var erdangjiadeW = window.innerWidth;
+        document.querySelector(".layer").style.display = 'block';
+        var g = document.getElementById("globalAd");
+        g.style.top  = (erdangjiadeH / 2 - g.offsetHeight / 2) + 'px';
+        g.style.left = (erdangjiadeW / 2 - g.offsetWidth  / 2) + 'px';
+        g.style.display = 'block';
+        setTimeout(closeGlobalAd, 300000);
+        jQuery.cookie(COOKIE_NAME, "erdangjiade", { path: '/', expires: 1 });
+      }
+    })();
+  });
+
+  // 需要在全局可用的函数（供按钮 onclick 调用）
+  function closeGlobalAd(){ document.getElementById('globalAd').style.display='none'; document.querySelector('.layer').style.display='none'; }
+  function redirectUrlToActive(){ closeGlobalAd(); }
+</script>
+
+<!-- 只保留一次 AdSense 主脚本：放在 </body> 前 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6395324458298892" crossorigin="anonymous"></script>
+
+</body>
+</html>
