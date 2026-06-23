@@ -118,7 +118,6 @@ CCTV16K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
 
 央视频道,#genre#
 
-CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226179/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227461/index.m3u8
@@ -195,6 +194,7 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 
 标清
 
+CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226179/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226179/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227679/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227365/index.m3u8
@@ -396,7 +396,7 @@ CETV4,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/322122
 云南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227536/index.m3u8
 云南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226148/index.m3u8
 西藏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227533/index.m3u8
-西藏卫视(藏语),http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227506/index.m3u8
+藏语卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227506/index.m3u8
 陕西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227588/index.m3u8
 甘肃卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227470/index.m3u8
 甘肃卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226166/index.m3u8
@@ -554,12 +554,12 @@ CETV4,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/322122
 辽宁经济,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227666/index.m3u8
 辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227651/index.m3u8
 辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227652/index.m3u8
-辽宁青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227660/index.m3u8
-辽宁青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227655/index.m3u8
+辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227660/index.m3u8
+辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227655/index.m3u8
 辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227657/index.m3u8
 辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227560/index.m3u8
-辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227642/index.m3u8
-辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227654/index.m3u8
+辽宁体育休闲,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227642/index.m3u8
+辽宁体育休闲,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227654/index.m3u8
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227551/index.m3u8
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227663/index.m3u8
 辽宁宜佳购物,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227557/index.m3u8
@@ -587,7 +587,7 @@ CCTV央视台球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227711/index
 CCTV风云音乐,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227641/index.m3u8
 CCTV央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227644/index.m3u8
 CCTV女性时尚,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227742/index.m3u8
-CCTV老故事,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227745/index.m3u8
+中央新影老故事,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227745/index.m3u8
 
 CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
