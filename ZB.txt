@@ -548,16 +548,16 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.
 咪视界32,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
 
 经典小品,#genre#
-
-赵本山经典小品,http://8.155.43.98:35455/douyu/9817716
-开心麻花经典小品,http://8.155.43.98:35455/douyu/10153463
-宋小宝小品,http://8.155.43.98:35455/douyu/9817729
-贾玲经典小品,http://8.155.43.98:35455/douyu/10419541
-许君聪经典小品,http://8.155.43.98:35455/douyu/10419558
-3030相声小品,http://8.155.43.98:35455/douyu/9286868
-龙视爱笑会议室,http://8.155.43.98:35455/douyu/9375430
-龙视本山快乐营，http://8.155.43.98:35455/douyu/9374865
-龙视开心麻花街,http://8.155.43.98:35455/douyu/9374862
+live.ottiptv.cc
+赵本山经典小品,http://live.ottiptv.cc/douyu/9817716
+开心麻花经典小品,http://live.ottiptv.cc/douyu/10153463
+宋小宝小品,http://live.ottiptv.cc/douyu/9817729
+贾玲经典小品,http://live.ottiptv.cc/douyu/10419541
+许君聪经典小品,http://live.ottiptv.cc/douyu/10419558
+3030相声小品,http://live.ottiptv.cc/douyu/9286868
+龙视爱笑会议室,http://live.ottiptv.cc/douyu/9375430
+龙视本山快乐营，http://live.ottiptv.cc/douyu/9374865
+龙视开心麻花街,http://live.ottiptv.cc/douyu/9374862
 
 巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035
 蔡明春晚小品,https://live.ottiptv.cc/yy/1354936177
@@ -573,7 +573,6 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.
 欢乐集结号2,https://live.ottiptv.cc/yy/1354930919
 欢乐集结号3,https://live.ottiptv.cc/yy/1382736822
 欢乐集结号4,https://live.ottiptv.cc/yy/1382736889
-小品欢乐集结号,https://live.ottiptv.cc/yy/1382735558
 欢乐集结号,https://live.ottiptv.cc/yy/1354931582
 欢乐集结号58-70,https://live.ottiptv.cc/yy/1382745119
 笑傲江湖 第1季,https://live.ottiptv.cc/yy/1382749896
